@@ -1,0 +1,25 @@
+{
+	"objects": [
+		{
+			"model_name":"camera",
+			"price":"150",
+			"description": "Old, but it still works. I think."
+		},
+		{
+			"model_name":"laptop",
+			"price":"500",
+			"description":"Brand new! Don't worry about the screen, that's how it's supposed to look like."
+		},
+		{
+			"model_name":"headphones",
+			"price":"42",
+			"description":"If you think those look uncomfortable, you're probably right."
+		},
+		{
+			"model_name":"hat",
+			"price":"1",
+			"description":"Some silly hat a guy with bow and arrow was wearing ages ago."
+		}
+	]
+	
+}
